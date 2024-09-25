@@ -1,0 +1,4 @@
+spring.application.name: spring-ai-first-glance
+spring.profiles.active: ollama
+
+weather.apikey: ###
